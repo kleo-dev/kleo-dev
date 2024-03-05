@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 Software Engineer
+- 💻 I know Rust, Node, TypeScript, JavaScript, Python
 - 🧠 Introvert/Minimalist/Creative
 - 🔴 Favourite color
 
