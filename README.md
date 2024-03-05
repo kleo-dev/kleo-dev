@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 💻 I know Rust, Node, TypeScript, JavaScript, Python
-- 🧠 Introvert/Minimalist/Creative
-- 🔴 Favourite color
+💻 - Rust, Node, TypeScript, JavaScript, Python
+🧠 - Introvert/Minimalist/Creative
+🔴 - Favourite color
 
 <!--
 **kleo-dev/kleo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
