@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 Wisp, Rust, Python, Node, TypeScript, JavaScript, C++
+- 💻 Wyst, Rust, Python, Node, TypeScript, JavaScript, C++
 - 🧠 Introvert/Minimalist/Creative
 - 🔴 Favourite color
 - <img src="https://global.discourse-cdn.com/business7/uploads/anki2/original/3X/c/9/c9a4a9705b3284dc430812de1c94ffa179ff0f2f.png" style="height: 18px"><img/>   kleo.dev
