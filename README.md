@@ -1,4 +1,3 @@
-# 💫 About Me:
 ### A developer with a big dream
 
 #
