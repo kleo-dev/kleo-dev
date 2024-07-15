@@ -5,7 +5,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kleo-dev&theme=gruvbox&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kleo-dev&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌐
+#
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nCePwckd4q) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@KleoCodes) 
 
 # 💻
