@@ -1,7 +1,13 @@
-👋 Hi, I'm Leo!
+# 👋 Hi, I'm Leo!
 
-👨🏻‍💻A Software Engineer
+👨🏻‍💻 A 15 year old Software Engineer with 5 years of experience trying to master everything.
 
-![kleo-dev's Stats](https://github-readme-stats.vercel.app/api?username=kleo-dev&theme=dark&show_icons=true&hide_border=true&count_private=true)
+💡 Passionate about low-level systems, compilers, UI/UX, and making cool tools.
+
+🔧 Favorite tech: Rust, Linux, TUI apps, and everything in between.
+
+---
+
+![kleo-dev's Stats](https://github-readme-stats.vercel.app/api?username=kleo-dev&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
 <!-- ![kleo-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kleo-dev&theme=dark&show_icons=true&hide_border=true&layout=compact) -->
