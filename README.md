@@ -2,7 +2,7 @@
 
 👨🏻‍💻 A 15 year old Software Engineer with 5 years of experience trying to master everything.
 
-💡 Passionate about low-level systems, compilers, UI/UX, and making cool tools.
+💡 Passionate about low-level systems, hacking, UI/UX, and making cool tools.
 
 🔧 Favorite tech: Rust, Linux, TUI apps, and everything in between.
 
