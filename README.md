@@ -2,6 +2,8 @@
 
 - https://kleo-dev.netlify.app
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X01OX1WR)
+
 👨🏻‍💻 A 15 year old Software Engineer with 5 years of experience trying to master everything.
 
 💡 Passionate about low-level systems, hacking, UI/UX, and making cool tools.
