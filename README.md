@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Klesti!
 
-- https://kleo-dev.netlify.app
+My Portoflio: https://kleo-dev.netlify.app
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X01OX1WR)
 
@@ -12,8 +12,37 @@
 
 ---
 
-![kleo-dev's Stats](https://github-readme-stats.vercel.app/api?username=kleo-dev&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=F5304C)
+## 📱 My Socials
+<div align="left">
+  <a href="https://www.linkedin.com/in/klesti-selimaj-7a0162343/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@0xkleo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/selimaj.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://dev.to/selimaj" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
+  </a>
+</div>
 
-![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=4&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF&line1=rust%2Crust%2Cf5304c%3Bosui%2Cosui%2Cf5304c%3Bdioxus%2Cdioxus%2Cf5304c%3Btauri%2Ctauri%2Cf5304c%3B&line2=typescript%2Ctypescript%2Cf5304c%3Bjavascript%2Cjavascript%2Cf5304c%3Breact%2Creact%2Cf5304c%3Bnext.js%2Cnext.js%2Cf5304c%3Btailwind%2Ctailwind%2Cf5304c%3B&line3=java%2Cjava%2Cf5304c%3Bminecraft%2Cminecraft%2Cf5304c%3Bfabricmc%2Cfabric+mc%2Cf5304c%3B&line4=python%2Cpython%2Cf5304c%3B)
+## 💻 My Skills
 
-<!-- ![kleo-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kleo-dev&theme=dark&show_icons=true&hide_border=true&layout=compact) -->
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/go/00ADD8" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" height="40" />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kleo-dev&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=FFFFFF"  />
+</div>
