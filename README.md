@@ -1,16 +1,17 @@
 # 👋 Hi, I'm Klesti!
 
+<img src="signature.svg" align="right" alt="Example image" width="190">
+
 My Portoflio: https://kleo-dev.netlify.app
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X01OX1WR)
+
 
 👨🏻‍💻 A 15 year old Software Engineer with 6 years of experience trying to master everything.
 
 💡 Passionate about low-level systems, hacking, UI/UX, and making cool tools.
 
 🔧 Favorite tech: Rust, Linux, TUI apps, and everything in between.
-
-<img src="signature.svg" align="right" alt="Example image" width="170">
 
 ---
 
