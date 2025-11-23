@@ -31,7 +31,13 @@ My Portoflio: https://kleo-dev.netlify.app
 ## 💻 My Skills
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40" /> -->
+  <picture>
+    <source srcset="rust_white.svg" media="(prefers-color-scheme: dark)" />
+    <source srcset="rust_black.svg" media="(prefers-color-scheme: light)" />
+    <img src="rust_black.svg" width="40" />
+  </picture>
+
   <img src="https://cdn.simpleicons.org/go/00ADD8" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
