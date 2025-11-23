@@ -10,6 +10,8 @@ My Portoflio: https://kleo-dev.netlify.app
 
 🔧 Favorite tech: Rust, Linux, TUI apps, and everything in between.
 
+<img src="signature.svg" align="right" alt="Example image" width="170">
+
 ---
 
 ## 📱 My Socials
