@@ -53,6 +53,4 @@ My Portoflio: https://kleo-dev.netlify.app
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=kleo-dev&show_icons=true&hide_border=true&count_private=true&theme=dark&icon_color=FFFFFF"  />
-</div>
+<img src="https://raw.githubusercontent.com/selimaj-dev/github-stats-terminal-style/refs/heads/master/github_stats.svg" height="380" />
