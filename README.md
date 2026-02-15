@@ -4,8 +4,14 @@
 
 My Portoflio: https://selimaj.dev
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X01OX1WR)
-
+<div style="display: flex; gap: 12px; align-items: center;">
+  <a href="https://tip.md/selimaj-dev" target="_blank">
+    <img src="https://tip.md/badge.svg" alt="Tip in Crypto" height="200px" />
+  </a>
+  <a href="https://ko-fi.com/X8X01OX1WR" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" height="200px" />
+  </a>
+</div>
 
 👨🏻‍💻 A 16 year old Software Engineer with 6 years of experience trying to master everything.
 
