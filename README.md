@@ -64,6 +64,4 @@ My Portoflio: https://selimaj.dev
   </tr>
 </table>
 
-###
-
-<img src="https://raw.githubusercontent.com/selimaj-dev/github-stats-terminal-style/refs/heads/master/github_stats.svg" height="380" />
+<!-- <img src="https://raw.githubusercontent.com/selimaj-dev/github-stats-terminal-style/refs/heads/master/github_stats.svg" height="380" /> -->
