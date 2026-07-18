@@ -4,16 +4,6 @@
 
 My Portoflio: https://selimaj.dev
 
-<div>
-  <a href="https://tip.md/selimaj-dev" target="_blank">
-    <img src="https://tip.md/badge.svg" alt="Tip in Crypto" height="200" style="vertical-align: middle;" />
-  </a>
-
-  <a href="https://ko-fi.com/X8X01OX1WR" target="_blank">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" height="200" style="vertical-align: middle;" />
-  </a>
-</div>
-
 👨🏻‍💻 A 16 year old Software Engineer with 6 years of experience trying to master everything.
 
 💡 Passionate about low-level systems, hacking, UI/UX, and making cool tools.
@@ -63,5 +53,17 @@ My Portoflio: https://selimaj.dev
     <td><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" /></td>
   </tr>
 </table>
+
+## 💰 Support me
+
+<div>
+  <a href="https://tip.md/selimaj-dev" target="_blank">
+    <img src="https://tip.md/badge.svg" alt="Tip in Crypto" height="200" style="vertical-align: middle;" />
+  </a>
+
+  <a href="https://ko-fi.com/X8X01OX1WR" target="_blank">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" height="200" style="vertical-align: middle;" />
+  </a>
+</div>
 
 <!-- <img src="https://raw.githubusercontent.com/selimaj-dev/github-stats-terminal-style/refs/heads/master/github_stats.svg" height="380" /> -->
