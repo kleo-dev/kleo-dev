@@ -1,18 +1,24 @@
-# 👋 Hi, I'm Klesti!
+# 👋 Hi, I'm Klesti
 
-<img src="signature.svg" align="right" alt="Example image" width="190">
+Independent developer building software, infrastructure, and tools.
 
-My Portoflio: https://selimaj.dev
+🌐 Portfolio: https://selimaj.dev
 
-👨🏻‍💻 A 16 year old Software Engineer with 6 years of experience trying to master everything.
+I'm passionate about:
+- ⚙️ Low-level systems and performance
+- 🦀 Rust development
+- 💰 Crypto and financial infrastructure
+- 🐧 Linux and developer tooling
+- 🔐 Security and privacy
 
-💡 Passionate about low-level systems, hacking, UI/UX, and making cool tools.
-
-🔧 Favorite tech: Rust, Linux, TUI apps, and everything in between.
+Currently building:
+- 🚀 Pulse Trader — high-performance algorithmic trading infrastructure
+- 🛠️ ORUS — open-source developer and security tools
+- 🌱 Exploring DeFi, markets, and new technologies
 
 ---
 
-## 📱 My Socials
+## 📱 Find Me
 
 <table>
   <tr>
@@ -22,18 +28,13 @@ My Portoflio: https://selimaj.dev
       </a>
     </td>
     <td>
-      <a href="https://www.youtube.com/@0xkleo" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" />
-      </a>
-    </td>
-    <td>
       <a href="https://www.instagram.com/selimaj.dev/" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" />
       </a>
     </td>
     <td>
-      <a href="https://dev.to/selimaj" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="40" />
+      <a href="https://x.com/selimajdev" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" />
       </a>
     </td>
   </tr>
