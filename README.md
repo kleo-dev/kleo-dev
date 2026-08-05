@@ -1,5 +1,7 @@
 # 👋 Yo
 
+<img src="signature.svg" align="right" alt="Example image" width="190" height>
+
 > independent builder | 🦀 Rust • 💰 Crypto • 🔐 Systems  
 > probably debugging something
 
