@@ -1,20 +1,6 @@
-# 👋 Hi, I'm Klesti
-
-Independent developer building software, infrastructure, and tools.
-
 🌐 Portfolio: https://selimaj.dev
 
-I'm passionate about:
-- ⚙️ Low-level systems and performance
-- 🦀 Rust development
-- 💰 Crypto and financial infrastructure
-- 🐧 Linux and developer tooling
-- 🔐 Security and privacy
-
-Currently building:
-- 🚀 Pulse Trader — high-performance algorithmic trading infrastructure
-- 🛠️ ORUS — open-source developer and security tools
-- 🌱 Exploring DeFi, markets, and new technologies
+independent builder | 🦀 Rust, 💰 Crypto, 🔐 Systems | probably debugging something
 
 ---
 
@@ -37,21 +23,6 @@ Currently building:
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" />
       </a>
     </td>
-  </tr>
-</table>
-
-## 💻 My Skills
-
-<table>
-  <tr>
-    <td><img src="rust_orange.svg" width="40" /></td>
-    <td><img src="https://cdn.simpleicons.org/go/00ADD8" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /></td>
-    <td><img src="https://cdn.simpleicons.org/netlify/00C7B7" width="40" /></td>
   </tr>
 </table>
 
