@@ -21,3 +21,7 @@
 ## 💰 Support
 
 If you find my work useful, you can support my open-source projects.
+
+<a href="https://tip.md/selimaj-dev" target="_blank">
+  <img src="https://tip.md/badge.svg" alt="Tip in Crypto" height="200" style="vertical-align: middle;" />
+</a>
